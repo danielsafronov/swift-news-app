@@ -1,0 +1,20 @@
+
+## Mac OS
+.DS_Store
+
+## Xcode workspace
+*.xcworkspace
+
+## Build generated
+build/
+DerivedData/
+
+## Swift Package Manager
+/.build
+/Packages
+
+## Various settings
+xcuserdata/
+
+## Other
+*.xcuserstate

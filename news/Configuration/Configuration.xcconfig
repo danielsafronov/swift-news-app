@@ -1,0 +1,13 @@
+//
+//  Configuration.xcconfig
+//  news
+//
+//  Created by Daniel Safronov on 11.06.2022.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_SCHEME = https
+API_BASE_URL = newsapi.org/v2
+API_KEY = 
