@@ -2,6 +2,9 @@
 ## Mac OS
 .DS_Store
 
+# Xcode user data
+xcuserdata/
+
 ## Xcode workspace
 *.xcworkspace
 
